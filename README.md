@@ -1,11 +1,18 @@
 # IBM Data Science Portfolio  
 
 ## Overview  
-Welcome to my IBM Data Science Portfolio! This repository showcases the projects I completed as part of the **IBM Professional Data Science Certificate** on Coursera. Each project represents a milestone in my journey to becoming a data scientist and highlights my skills in data analysis, machine learning, and visualisation.  
+Welcome to my IBM Data Science Portfolio! This repository showcases the projects I completed as part of the **IBM Professional Data Science Certificate** on Coursera. Each project highlights my skills in data analysis, machine learning, and visualisation.
 
 All the code in this repository has been **individually written by me**, ensuring originality and demonstrating my ability to independently apply data science concepts to solve real-world problems.  
 
-Through these projects, I aim to showcase my ability to derive actionable insights, solve complex problems, and effectively communicate results.  
+Through these projects, I aim to showcase my ability to derive actionable insights, solve complex problems, and effectively communicate results. 
+
+[Please also check out my ML repository for more in-depth model building based on multiple awesome O'Reilly books]
+
+Key languages used are:
+
+1. Python
+2. SQL (ipython-sql extension)
 
 ---
 
